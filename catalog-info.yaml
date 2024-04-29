@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  namespace: eng-tools
+  name: melanoma-detection-assignment
+  description: |
+    upgrad ml assignment
+spec:
+  type: backend
+  owner: user:opentext/daparekh
+  lifecycle: experimental
